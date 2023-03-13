@@ -20,6 +20,7 @@ Here we have all the code required to run the backend of a social media applicat
 Run the command NPM I to install the necessary packages
 
 ## Usage
+Here is a link to the walkthrough video using insomnia to test routes:   https://drive.google.com/file/d/1c0qngBYCpm77w3Wo4aIV2aSmnMP4WJGX/view 
 
 To use the application run the command "node index.js"
 
